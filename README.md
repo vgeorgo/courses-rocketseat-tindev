@@ -40,6 +40,8 @@ Folder **tindev**:
 ```
 # Build project and Runs emulator
 yarn react-native run-ios
+# or
+yarn react-native run-android
  
 yarn start
 ```
